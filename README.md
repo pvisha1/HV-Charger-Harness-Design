@@ -121,6 +121,8 @@ Routing Strategy	Floor panel → side sill → PDU
 Fixing Elements	Clips, clamps, grommets
 Design Output	CATPart, CATProduct, Screenshot views
 
+The GREEN multi branchable is added considering the wire movement on that side in real life.
+
 ---
 
 📘 Learning Outcomes
